@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://devzons:DON14789don@cluster0-3aqgv.mongodb.net/test?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://devzons:DON14789don@cluster0-3aqgv.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
 }
